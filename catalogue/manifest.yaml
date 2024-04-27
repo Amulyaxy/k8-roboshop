@@ -4,7 +4,7 @@ metadata:
   name: catalogue
   namespace: roboshop
 data:
-  MONGODB: true
+  MONGODB: "true"
 ---
 apiVersion: apps/v1
 kind: Deployment
